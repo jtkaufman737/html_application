@@ -1,0 +1,31 @@
+html {
+  background: url('http://i.imgur.com/JC0wpgc.jpg') no-repeat center center fixed;
+  font-family: 'Prompt', sans-serif;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body{
+  font-family: 'Raleway', Helvetica, Arial, sans-serif;
+}
+
+.fitted{
+  display:inline;
+  float:left;
+  /*width:20%;*/
+  padding-top:4%;
+  padding-right:3%;
+  padding-left:3%;
+  padding-bottom:2.5%;
+  margin:5%;
+  color:black;
+  background-color:white;
+  opacity:0.8;
+  font-weight:lighter;
+}
+
+h1{
+  text-align:center;
+}
